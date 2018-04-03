@@ -3,8 +3,7 @@ Let's use branching to build cool things together!
 ![Tree Branches](treebranches.jpg)
 
 ## Different ways to branch:
-### CLI
-* TODO
+### [CLI](https://docs.google.com/presentation/d/1AsiVGAmvbhDBb50xsOMuhiwWVhG3Ae36Jf48Y8o7c5g/edit?usp=sharing)
 ### GUI
 * TODO
 ### WebUI
