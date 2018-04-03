@@ -20,4 +20,6 @@ Today I learned about treeclimbers [http://treeclimbing.com/]
 
 * TODO
 
+🦄🦄🦄
+🐮🔔🐮🔔
 ![nerdshop mascots](https://i.pinimg.com/originals/f6/9c/dd/f69cdd21821286221c54db5626e0bb24.gif)
