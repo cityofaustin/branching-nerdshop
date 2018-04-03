@@ -10,3 +10,14 @@
 
 ![Click Branch](05.click.branch.png)
 ![Create Branch](06.create.branch.png)
+* Merge in master
+
+![Merge Master](07.merge.master.png)
+* Resolve Conflicts
+
+![Resolve Conflicts](08.resolve.conflicts.png)
+![Compare Tool](09.compare.tool.png)
+![Commit](10.commit.changes.png)
+* Open a PR
+
+![PR](11.open.pr.png)
