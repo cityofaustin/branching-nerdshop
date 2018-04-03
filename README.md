@@ -6,3 +6,5 @@ Let's use branching to build cool things together!
 ### [GUI](GUI/GUI.md)
 ### WebUI
 * TODO
+### Gardening
+* Pay attention to bulk item pickup days to get rid of extra large branches
