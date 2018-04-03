@@ -18,6 +18,8 @@ Today I learned about treeclimbers [http://treeclimbing.com/]
 ### [GUI](GUI/GUI.md)
 ### WebUI
 
+# Hakuna ![Mateo](https://cityofaustin.github.io/innovation-fellows/assets/img/staff/mateo-clarke.jpg)
+
 * TODO
 
 ### Gardening
