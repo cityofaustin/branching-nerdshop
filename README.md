@@ -1,9 +1,12 @@
 # branching-nerdshop
 Let's use branching to build cool things together!
 
+I really want to add an image, but I don't know how to add an image.
+
 
 Today I learned about treeclimbers [http://treeclimbing.com/]
 ![Inspiration from Galdalf](https://i.imgur.com/zmnvnk9.jpg)
+
 
 
 ## Different ways to branch:
